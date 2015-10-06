@@ -1,2 +1,5 @@
 server:
-  base_uri: http://localhost:8080
+  base_uri: http://52.64.185.66
+meta:
+  title: Force API
+  description: Force Services provide a REST-ful JSON API to Plaza.

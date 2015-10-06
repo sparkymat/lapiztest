@@ -1,0 +1,11 @@
+# Group Appointments
+
+## GET /v1/summary
+
+
++ Response 401 (application/json)
+
+        {
+          "error": "Not authorized"
+        }
+
